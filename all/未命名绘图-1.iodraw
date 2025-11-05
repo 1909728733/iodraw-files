@@ -199,11 +199,17 @@
             <mxPoint x="-2124" y="-1596" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YVusKJJfCDa4XIUKcqrJ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YVusKJJfCDa4XIUKcqrJ-8" target="YVusKJJfCDa4XIUKcqrJ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YVusKJJfCDa4XIUKcqrJ-8" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="-2212" y="-1575" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YVusKJJfCDa4XIUKcqrJ-17" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-1986" y="-2979" width="30" height="60" as="geometry" />
+          <mxGeometry x="-1986" y="-2979" width="246" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="YVusKJJfCDa4XIUKcqrJ-18" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-2212" y="-1435" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
