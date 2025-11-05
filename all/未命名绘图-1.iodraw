@@ -133,9 +133,6 @@
             <mxPoint x="-1718" y="-2071" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YVusKJJfCDa4XIUKcqrJ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xS_igSmUzZAVQWj1epxf-54" target="YVusKJJfCDa4XIUKcqrJ-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="xS_igSmUzZAVQWj1epxf-54" value="普通用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-2212" y="-1579" width="30" height="62" as="geometry" />
         </mxCell>
@@ -204,9 +201,6 @@
             <mxPoint x="-2174" y="-1546" as="sourcePoint" />
             <mxPoint x="-2124" y="-1596" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="YVusKJJfCDa4XIUKcqrJ-1" value="普通用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-2212" y="-1437" width="30" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
