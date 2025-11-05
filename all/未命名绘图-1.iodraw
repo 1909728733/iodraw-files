@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YVusKJJfCDa4XIUKcqrJ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xS_igSmUzZAVQWj1epxf-1" target="YVusKJJfCDa4XIUKcqrJ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xS_igSmUzZAVQWj1epxf-1" value="普通用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-2212" y="-2080" width="30" height="62" as="geometry" />
         </mxCell>
@@ -201,6 +204,9 @@
         </mxCell>
         <mxCell id="YVusKJJfCDa4XIUKcqrJ-8" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="-2212" y="-1575" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YVusKJJfCDa4XIUKcqrJ-15" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-2257" y="-1937" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
