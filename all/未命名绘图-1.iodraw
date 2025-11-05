@@ -200,7 +200,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YVusKJJfCDa4XIUKcqrJ-4" value="普通用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-2202" y="-2070" width="30" height="62" as="geometry" />
+          <mxGeometry x="-2212" y="-1580" width="30" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="YVusKJJfCDa4XIUKcqrJ-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2227" y="-1512" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
