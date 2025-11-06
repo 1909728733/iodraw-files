@@ -202,7 +202,7 @@
         <mxCell id="YVusKJJfCDa4XIUKcqrJ-8" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="-2212" y="-1575" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jZbVWuoTf4mforV2Y1aP-1" value="贫困地区申请" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jZbVWuoTf4mforV2Y1aP-1" value="贫困地区申请认证" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1646.5" y="-1972" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="jZbVWuoTf4mforV2Y1aP-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.004;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jZbVWuoTf4mforV2Y1aP-1">
