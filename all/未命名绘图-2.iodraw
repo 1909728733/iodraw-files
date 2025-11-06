@@ -205,9 +205,9 @@
         <mxCell id="jZbVWuoTf4mforV2Y1aP-1" value="贫困地区申请" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1646.5" y="-1972" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="jZbVWuoTf4mforV2Y1aP-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="jZbVWuoTf4mforV2Y1aP-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.004;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jZbVWuoTf4mforV2Y1aP-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1775" y="-1929" as="sourcePoint" />
+            <mxPoint x="-1764" y="-2020" as="sourcePoint" />
             <mxPoint x="-1725" y="-1979" as="targetPoint" />
           </mxGeometry>
         </mxCell>
