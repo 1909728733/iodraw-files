@@ -86,7 +86,7 @@
           <mxGeometry x="-1646.5" y="-2140.5" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="xS_igSmUzZAVQWj1epxf-30" value="查看订单" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1646.5" y="-1973" width="120" height="45" as="geometry" />
+          <mxGeometry x="-1646.5" y="-1908.5" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="xS_igSmUzZAVQWj1epxf-33" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1646.5" y="-2087.5" width="120" height="45" as="geometry" />
