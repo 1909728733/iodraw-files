@@ -224,7 +224,7 @@
           <mxGeometry x="-862" y="-1638" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-5" value="网关层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1334" y="-1556" width="150" height="117" as="geometry" />
+          <mxGeometry x="-1334" y="-1556" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-17" value="JSTL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1028" y="-1638" width="120" height="50" as="geometry" />
@@ -245,7 +245,7 @@
           <mxGeometry x="-1334" y="-1327" width="120" height="117" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-29" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1333.5" y="-1413.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1333.5" y="-1413.5" width="150.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-30" value="Spring Framework" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1027.5" y="-1419" width="120" height="60" as="geometry" />
