@@ -215,7 +215,7 @@
           <mxGeometry x="-1332" y="-1700" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-2" value="jsp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1167" y="-1700" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1167" y="-1700" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-3" value="jQuery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1001" y="-1700" width="120" height="60" as="geometry" />
@@ -260,7 +260,7 @@
           <mxGeometry x="-1329" y="-1348" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1165" y="-1624" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1167" y="-1628" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-18" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1329" y="-1443" width="120" height="60" as="geometry" />
