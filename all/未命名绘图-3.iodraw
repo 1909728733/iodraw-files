@@ -248,7 +248,7 @@
           <mxGeometry x="-1333.5" y="-1413.5" width="150.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-30" value="Spring Framework" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1027.5" y="-1419" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1092" y="-1413.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-31" value="Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-861.5" y="-1419" width="120.5" height="60" as="geometry" />
