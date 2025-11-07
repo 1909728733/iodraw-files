@@ -230,7 +230,7 @@
           <mxGeometry x="-1092" y="-1640" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-19" value="DispatcherServlet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-908" y="-1556" width="120" height="50" as="geometry" />
+          <mxGeometry x="-908" y="-1556" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-20" value="controllers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1092" y="-1496" width="130" height="50" as="geometry" />
@@ -239,7 +239,7 @@
           <mxGeometry x="-1092" y="-1556" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-22" value="@RequestMapping注解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-862" y="-1494" width="120" height="50" as="geometry" />
+          <mxGeometry x="-908" y="-1496" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-23" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1334" y="-1327" width="150" height="110" as="geometry" />
@@ -251,7 +251,7 @@
           <mxGeometry x="-1092" y="-1413.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-31" value="Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-885" y="-1408.5" width="130" height="60" as="geometry" />
+          <mxGeometry x="-908" y="-1413.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-33" value="MyBatis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1092" y="-1327" width="130" height="50" as="geometry" />
