@@ -266,10 +266,13 @@
           <mxGeometry x="-827" y="-1700" width="120" height="498" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-38" value="Meven" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-827" y="-1605" width="120" height="60" as="geometry" />
+          <mxGeometry x="-827" y="-1605" width="89" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-39" value="工具" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-797" y="-1680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I3OGcbushg6yNnUKp5th-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-827" y="-1453" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
