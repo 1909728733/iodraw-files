@@ -226,33 +226,6 @@
         <mxCell id="I3OGcbushg6yNnUKp5th-5" value="网关层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1334" y="-1534" width="120" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="I3OGcbushg6yNnUKp5th-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-708" y="-1498" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="I3OGcbushg6yNnUKp5th-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-698" y="-1488" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="I3OGcbushg6yNnUKp5th-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-688" y="-1478" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="I3OGcbushg6yNnUKp5th-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-678" y="-1468" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="I3OGcbushg6yNnUKp5th-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-668" y="-1458" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="I3OGcbushg6yNnUKp5th-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-658" y="-1448" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="I3OGcbushg6yNnUKp5th-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-648" y="-1438" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="I3OGcbushg6yNnUKp5th-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-638" y="-1428" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="I3OGcbushg6yNnUKp5th-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-628" y="-1418" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-16" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1344" y="-1173" width="120" height="60" as="geometry" />
         </mxCell>
@@ -270,6 +243,9 @@
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-21" value="Spring MVC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1167" y="-1534" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I3OGcbushg6yNnUKp5th-22" value="JSTL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1157" y="-1623" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
