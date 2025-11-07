@@ -248,7 +248,7 @@
           <mxGeometry x="-1334" y="-1366" width="120" height="117" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-25" value="DispatcherServlet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1001" y="-1371" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1001" y="-1366" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-26" value="controllers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1167" y="-1299" width="120" height="50" as="geometry" />
@@ -257,7 +257,7 @@
           <mxGeometry x="-1167" y="-1366" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-28" value="@RequestMapping注解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-993" y="-1286" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1001" y="-1299" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
