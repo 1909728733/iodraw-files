@@ -220,6 +220,9 @@
         <mxCell id="I3OGcbushg6yNnUKp5th-3" value="jQuery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-918" y="-1700" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="I3OGcbushg6yNnUKp5th-4" value="Bootstrap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-731" y="-1700" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
