@@ -226,14 +226,8 @@
         <mxCell id="I3OGcbushg6yNnUKp5th-5" value="网关层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1334" y="-1534" width="120" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="I3OGcbushg6yNnUKp5th-16" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1344" y="-1173" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-17" value="JSTL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1167" y="-1633" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="I3OGcbushg6yNnUKp5th-18" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1352" y="-1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-19" value="DispatcherServlet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1001" y="-1534" width="120" height="50" as="geometry" />
