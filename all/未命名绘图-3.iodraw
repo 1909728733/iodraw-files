@@ -251,13 +251,13 @@
           <mxGeometry x="-1092" y="-1413.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-31" value="Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-885" y="-1413.5" width="130" height="60" as="geometry" />
+          <mxGeometry x="-885" y="-1408.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-33" value="MyBatis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1028" y="-1332" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1092" y="-1327" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-34" value="MySQl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-862" y="-1332" width="120" height="50" as="geometry" />
+          <mxGeometry x="-880" y="-1324" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-36" value="Mapper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1028" y="-1265" width="287" height="50" as="geometry" />
