@@ -259,6 +259,9 @@
         <mxCell id="I3OGcbushg6yNnUKp5th-28" value="@RequestMapping注解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1001" y="-1299" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="I3OGcbushg6yNnUKp5th-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="-1348" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
