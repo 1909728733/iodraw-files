@@ -259,7 +259,7 @@
         <mxCell id="I3OGcbushg6yNnUKp5th-16" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1329" y="-1348" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I3OGcbushg6yNnUKp5th-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I3OGcbushg6yNnUKp5th-17" value="JSTL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1167" y="-1633" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-18" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
