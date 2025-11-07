@@ -236,7 +236,7 @@
           <mxGeometry x="-1028" y="-1494" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-21" value="Spring MVC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1028" y="-1561" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1092" y="-1556" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-22" value="@RequestMapping注解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-862" y="-1494" width="120" height="50" as="geometry" />
