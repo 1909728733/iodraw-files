@@ -247,6 +247,9 @@
         <mxCell id="I3OGcbushg6yNnUKp5th-29" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1334" y="-1362.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="I3OGcbushg6yNnUKp5th-30" value="Spring Framework" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1167" y="-1363" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
