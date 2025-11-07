@@ -224,10 +224,10 @@
           <mxGeometry x="-862" y="-1638" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-5" value="网关层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1334" y="-1556" width="150" height="110" as="geometry" />
+          <mxGeometry x="-1334" y="-1557" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-17" value="JSTL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1092" y="-1630" width="130" height="50" as="geometry" />
+          <mxGeometry x="-1092" y="-1640" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-19" value="DispatcherServlet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-862" y="-1561" width="120" height="50" as="geometry" />
