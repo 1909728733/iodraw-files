@@ -223,7 +223,7 @@
         <mxCell id="I3OGcbushg6yNnUKp5th-4" value="Bootstrap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-835" y="-1700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I3OGcbushg6yNnUKp5th-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I3OGcbushg6yNnUKp5th-5" value="网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1332" y="-1605" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
