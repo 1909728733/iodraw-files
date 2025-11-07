@@ -251,13 +251,13 @@
           <mxGeometry x="-991" y="-1524" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-26" value="controllers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1157" y="-1457" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1170" y="-1295" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-27" value="Spring MVC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1157" y="-1524" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-28" value="@RequestMapping注解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-991" y="-1457" width="120" height="50" as="geometry" />
+          <mxGeometry x="-993" y="-1286" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
