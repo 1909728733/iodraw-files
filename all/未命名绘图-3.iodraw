@@ -254,7 +254,7 @@
           <mxGeometry x="-628" y="-1418" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-618" y="-1408" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1001" y="-1466.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-16" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1344" y="-1173" width="120" height="60" as="geometry" />
@@ -266,7 +266,7 @@
           <mxGeometry x="-1352" y="-1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-19" value="DispatcherServlet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1001" y="-1534" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1001" y="-1534" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-20" value="controllers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1167" y="-1467" width="120" height="50" as="geometry" />
