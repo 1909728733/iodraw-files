@@ -244,23 +244,8 @@
         <mxCell id="I3OGcbushg6yNnUKp5th-23" value="网关层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1334" y="-1198" width="120" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="I3OGcbushg6yNnUKp5th-24" value="网关层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1334" y="-1366" width="120" height="117" as="geometry" />
-        </mxCell>
-        <mxCell id="I3OGcbushg6yNnUKp5th-25" value="DispatcherServlet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1001" y="-1366" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="I3OGcbushg6yNnUKp5th-26" value="controllers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1167" y="-1299" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="I3OGcbushg6yNnUKp5th-27" value="Spring MVC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1167" y="-1366" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="I3OGcbushg6yNnUKp5th-28" value="@RequestMapping注解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1001" y="-1299" width="120" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="I3OGcbushg6yNnUKp5th-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="-1348" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1334" y="-1362.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
